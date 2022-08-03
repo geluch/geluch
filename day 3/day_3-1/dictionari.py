@@ -10,5 +10,6 @@ my_dict = {
 # print(len(my_dict))
 # print(my_dict["surname"])
 # შეცვლა ელემენტის ცვლადში
-my_dict["children"][1]="gani"
+# my_dict["children"][1]="gani"
+# print(my_dict)
 print(my_dict)
